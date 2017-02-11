@@ -1,5 +1,0 @@
-deploy:
-  provider: s3
-  access_key_id: "REMOVED-SECRET"
-  secret_access_key: "REMOVED-SECRET"
-  bucket: "motoole.me"
